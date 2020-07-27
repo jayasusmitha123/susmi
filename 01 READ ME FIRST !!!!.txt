@@ -1,0 +1,15 @@
+STUDENT MANAGEMENT SYSTEM IN C++
+
+LOGIN DETAIL :-
+
+Username : susmi
+Password : miniproject
+
+
+Developed By JAYA SUSMITHA KUNAPAREDDY
+
+
+
+
+
+
